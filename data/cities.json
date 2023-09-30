@@ -1,0 +1,124 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": 739303185
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": 984413197
+    },
+    {
+      "cityName": "Cati",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-07-15T04:37:31.220Z",
+      "notes": "",
+      "position": {
+        "lat": "40.58776014157195",
+        "lng": "-0.04295654296874841"
+      },
+      "id": 984413198
+    },
+    {
+      "cityName": "Chicago",
+      "country": "United States of America (the)",
+      "emoji": "🇺🇸",
+      "date": "2023-07-15T04:37:42.156Z",
+      "notes": "",
+      "position": {
+        "lat": "42.04572336729411",
+        "lng": "-87.72857666015625"
+      },
+      "id": 984413199
+    },
+    {
+      "cityName": "Chicago",
+      "country": "United States of America (the)",
+      "emoji": "🇺🇸",
+      "date": "2023-07-15T04:47:44.795Z",
+      "notes": "",
+      "position": {
+        "lat": "42.015298986782064",
+        "lng": "-87.69041018076183"
+      },
+      "id": 984413200
+    },
+    {
+      "cityName": "Zhezqazghan",
+      "country": "Kazakhstan",
+      "emoji": "🇰🇿",
+      "date": "2023-07-15T04:50:18.598Z",
+      "notes": "",
+      "position": {
+        "lat": "47.790072516203395",
+        "lng": "67.72219268923013"
+      },
+      "id": 984413202
+    },
+    {
+      "cityName": "Almaty",
+      "country": "Kazakhstan",
+      "emoji": "🇰🇿",
+      "date": "2023-07-15T04:53:02.167Z",
+      "notes": "",
+      "position": {
+        "lat": "43.22903929849981",
+        "lng": "76.96180776240989"
+      },
+      "id": 984413203
+    },
+    {
+      "cityName": "Kaskelen",
+      "country": "Kazakhstan",
+      "emoji": "🇰🇿",
+      "date": "2023-07-15T04:54:55.790Z",
+      "notes": "",
+      "position": {
+        "lat": "43.187983523451415",
+        "lng": "76.65883268665787"
+      },
+      "id": 984413204
+    },
+    {
+      "cityName": "Laroquevieille",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2023-08-16T19:56:57.779Z",
+      "notes": "Nazerke you can do it!!",
+      "position": {
+        "lat": "45.01141864227728",
+        "lng": "2.5048828125000004"
+      },
+      "id": 984413205
+    },
+    {
+      "cityName": "Zorita del Maestrazgo",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-08-17T00:05:42.876Z",
+      "notes": "aa",
+      "position": {
+        "lat": "40.74413568925235",
+        "lng": "-0.17990112304687503"
+      },
+      "id": 984413206
+    }
+  ]
+}
